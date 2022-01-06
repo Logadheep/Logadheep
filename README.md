@@ -1,6 +1,7 @@
 [![MasterHead](https://github.com/Logadheep/Logadheep/blob/main/images/Hi%20There%2C.jpg)](https://github.com/Logadheep/)
 <img align="right" alt="Coding" width="40%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logadheep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 
 <h3 align="left">Connect with me:</h3>
