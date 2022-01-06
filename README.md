@@ -14,5 +14,5 @@
   <a href="https://www.cppreference.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
   <a href="https://www.purecss.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> </a> 
   <a href="https://html5.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="40" height="40"/> </a> </p>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="100" height="40"/> </a> </p>
 
