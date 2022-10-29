@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/Logadheep/Logadheep/blob/main/images/Hi%20There%2C.png)](https://github.com/Logadheep/)
+## Hi There
+# It's Me Logadheep
+### Python enthusiast
+
 [![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
 <img align="right" alt="Coding" width="30%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logadheep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
