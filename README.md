@@ -7,11 +7,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Logadheep&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/LogadeepN" target="blank"><img src="images/twitter.png" height="50" width="50" /></a>  
-<a href="https://instagram.com/__loga45__" target="blank"><img align="center" src="images/instagram.png" height="40" width="40"/></a>
-<a href="https://www.linkedin.com/in/logadheep-natarajan-0b4370228/" target="blank"><img src="images/linkedin.png" height="50" weight="50"/></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/LogadeepN" target="blank"><img src="images/twitter.png" /></a>  
+<a href="https://instagram.com/__loga45__" target="blank"><img align="center" src="images/instagram.png"/></a>
+<a href="https://www.linkedin.com/in/logadheep-natarajan-0b4370228/" target="blank"><img src="images/linkedin.png"/></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="40" width="40" /></a> -->
 </p>
 
