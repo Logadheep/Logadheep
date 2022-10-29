@@ -4,6 +4,7 @@
 ![Maintainer](https://img.shields.io/badge/maintainer-Logadheep-blue)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Logadheep&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
