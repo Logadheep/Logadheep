@@ -1,10 +1,11 @@
 [![MasterHead](https://github.com/Logadheep/Logadheep/blob/main/images/Hi%20There%2C.jpg)](https://github.com/Logadheep/)
 <img align="right" alt="Coding" width="30%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+[![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logadheep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Maintainer](https://img.shields.io/badge/maintainer-Logadheep-blue)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Logadheep&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
