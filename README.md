@@ -1,6 +1,6 @@
-## Hi There
-# It's Me Logadheep
-### Python enthusiast
+## Hi There,
+## It's Me, Logadheep
+### An enthusiastic python Programmer
 
 [![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
 <img align="right" alt="Coding" width="30%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
