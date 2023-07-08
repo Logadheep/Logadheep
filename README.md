@@ -1,6 +1,6 @@
 ## Hi There,
 ## It's Me, Logadheep
-### An enthusiastic python Programmer
+### An Enthusiastic Developer
 
 [![@logadheep's Holopin board](https://holopin.me/logadheep)](https://holopin.io/@logadheep)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Logadheep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
